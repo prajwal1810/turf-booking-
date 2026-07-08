@@ -13,11 +13,7 @@ pnpm install
 pnpm run dev
 ```
 
-In this Codex workspace, the app is currently running at:
 
-```text
-http://127.0.0.1:4182
-```
 
 ## Features
 
