@@ -1,0 +1,11 @@
+.next/
+node_modules/
+data/
+
+.env
+.env.local
+.env*.local
+
+*.log
+npm-debug.log*
+*.db
