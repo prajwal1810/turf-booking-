@@ -5,8 +5,6 @@ Local Next.js booking site for a single 5-a-side football turf in Banjara Hills.
 ## Local Admin
 
 - Admin URL: `/admin`
-- Password: `admin123`
-- Session secret: `local-turf-secret-2026`
 
 ## Run Locally
 
